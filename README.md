@@ -87,8 +87,8 @@ The main tasks covered in this project include:
 
 Some of the key plots included in the notebook:
 
-- **Scatter plot** showing the data distribution.
-- **Regression line plot** showing predicted values against actual data points.
+- **Scatter plot** showing the data distribution,illustrating the relationship between the independent variable and the target variable. Each green dot represents an observation.
+- **Regression line plot** The yellow line showing predicted values against actual data points.
 
 *(View the notebook for full code and outputs.)*
 
