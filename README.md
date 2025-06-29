@@ -1,4 +1,4 @@
-# Linear Regression Model 📈
+ # Linear Regression Model 📈
 
 This repository contains a comprehensive walkthrough of building a **Linear Regression model** using Python and Scikit-learn. The project focuses on exploring a dataset, preparing the data, building the model, evaluating its performance, and visualizing the results.
 
@@ -93,10 +93,3 @@ Some of the key plots included in the notebook:
 *(View the notebook for full code and outputs.)*
 
 ---
-
-## 🚀 How to Run the Notebook Locally:
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/shirleensimon/linear-regression.git
