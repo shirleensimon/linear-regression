@@ -1,10 +1,10 @@
- # Linear Regression Model 📈
+ # Linear Regression Model 
 
 This repository contains a simple walkthrough of building a **Linear Regression model** using Python and Scikit-learn. The project focuses on exploring a dataset, preparing the data, building the model, evaluating its performance, and visualizing the results.
 
 ---
 
-## 📌 Project Objectives:
+##  Project Objectives:
 
 The main tasks covered in this project include:
 
@@ -33,14 +33,14 @@ The main tasks covered in this project include:
 
 ---
 
-## 📂 Repository Contents:
+##  Repository Contents:
 
 - **Linear regression model.ipynb**  
   The main Jupyter Notebook containing all the steps: from data loading to model evaluation and visualization.
 
 ---
 
-## 🛠️ Tools and Libraries Used:
+##  Tools and Libraries Used:
 
 - Python 3.x
 - Jupyter Notebook
@@ -51,7 +51,7 @@ The main tasks covered in this project include:
 
 ---
 
-## ✅ Steps:
+## Steps:
 
 ### 1. Exploring the Dataset
 - Loaded the dataset using **Pandas**.
@@ -83,7 +83,7 @@ The main tasks covered in this project include:
 
 ---
 
-## 📊 Sample Output Visualizations:
+## Sample Output Visualizations:
 
 Some of the key plots included in the notebook:
 
