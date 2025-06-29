@@ -1,6 +1,6 @@
  # Linear Regression Model 📈
 
-This repository contains a comprehensive walkthrough of building a **Linear Regression model** using Python and Scikit-learn. The project focuses on exploring a dataset, preparing the data, building the model, evaluating its performance, and visualizing the results.
+This repository contains a simple walkthrough of building a **Linear Regression model** using Python and Scikit-learn. The project focuses on exploring a dataset, preparing the data, building the model, evaluating its performance, and visualizing the results.
 
 ---
 
